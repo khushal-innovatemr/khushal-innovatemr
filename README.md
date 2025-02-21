@@ -7,11 +7,11 @@
 
 - 🔭 **Currently Working On:** [CPATech Challenge](https://github.com/khushal-innovatemr/CPATech) – A secure financial management dashboard using the MERN stack with AI insights.
 
-- 🌱 **Learning & Experimenting With:** .NET, Docker, and AI integrations.
+- 🌱 **Learning & Experimenting With:** Angular
 
 - 👯 **Open to Collaborate On:** Web applications, open-source projects, and innovative solutions in full-stack development.
 
-- 💻 **Explore My Projects:** Check out my [GitHub repositories](https://github.com/khushal-innovatemr) to see my work in React, Node.js, MongoDB, and more.
+- 💻 **Explore My Projects:** Check out my [GitHub repositories](https://github.com/khushal-innovatemr) to see my work in Angular, Node.js, MongoDB, and more.
 
 - 📫 **Reach Me At:** [jainkhushal36@gmail.com](mailto:jainkhushal36@gmail.com)
 
