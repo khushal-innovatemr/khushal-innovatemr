@@ -65,7 +65,7 @@
    A dynamic travel management platform enabling seamless hotel search and selection, integrated with secure Stripe payments and optimized media management. [GitHub Repo](https://github.com/Khushal78/GoTourMappers)
 
 2. **QR-Based Citizen Feedback System**  
-   A system to collect and manage citizen feedback, ensuring data integrity and user privacy across multiple cities. Developed using Flask, JavaScript, and MongoDB. [GitHub Repo](https://github.com/Khushal78/QR-Citizen-Feedback)
+   A system to collect and manage citizen feedback, ensuring data integrity and user privacy across multiple cities. Developed using Flask, JavaScript, and MongoDB. [GitHub Repo](https://github.com/Khushal78/SSIP-VIbrant-Hackathon)
 
 
 ---
