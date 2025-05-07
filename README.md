@@ -11,7 +11,7 @@
 
 - 👯 **Open to Collaborate On:** Web applications, open-source projects, and innovative solutions in full-stack development.
 
-- 💻 **Explore My Projects:** Check out my [GitHub repositories](https://github.com/khushal-innovatemr) to see my work in Angular, Node.js, MongoDB, and more.
+- 💻 **Explore My Projects:** Check out my [GitHub repositories]([(https://github.com/khushal-innovatemr?tab=repositories)]) to see my work in Angular, Node.js, MongoDB, and more.
 
 - 📫 **Reach Me At:** [jainkhushal36@gmail.com](mailto:jainkhushal36@gmail.com)
 
